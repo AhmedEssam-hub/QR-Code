@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    font-family: "outfit";
+    font-size: 15px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(213, 225, 239);
+}
+
+h1{
+    font-weight: 700;
+    font-size: 2em;
+    color: rgb(13, 30, 48);
+}
+
+p{
+    font-weight: 400;
+    color: rgb(156, 158, 165);
+
+}
+
+h1 ,p{
+    padding: 10px 37px;
+    
+}
+
+main{
+    width: 500px;
+    padding: 15px;
+    margin: 200px auto;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+}
+
+.imgbox img{
+    width: 100%;
+    border-radius: 25px;
+}
